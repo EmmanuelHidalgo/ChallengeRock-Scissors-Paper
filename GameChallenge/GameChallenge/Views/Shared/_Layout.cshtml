@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+
+    <!--Importacion de CSS que estiliza a Material Desing-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <!--Importacion de CSS que usa los iconos Material Desing-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!--Estilo propio-->
+    <link href="../Content/estilos.css" rel="stylesheet">
+
+
+
+</head>
+<body> 
+    
+    
+        <header>
+            
+
+               
+              
+
+
+            <nav class="green accent-2">
+             
+                <ul class="hide-on-med-and-down"></ul>
+                <ul id="slide-out" class="side-nav fixed"> 
+                    <li class="no-padding">
+                        <ul class="collapsible collapsible-accordion">
+                            <li>@Html.ActionLink("Instructions", "Index", "Player")</li>
+                        </ul>
+                    </li>
+                    <li class="no-padding">
+                        <ul class="collapsible collapsible-accordion">
+                            <li>@Html.ActionLink("Play", "beginPlayView", "Player")</li>
+                        </ul>
+                    </li>
+                    <li class="no-padding">
+                        <ul class="collapsible collapsible-accordion">
+                            <li>@Html.ActionLink("Top Ten", "beginTopView", "Player")</li>
+                        </ul>
+                    </li>
+                    <li class="no-padding">
+                        <ul class="collapsible collapsible-accordion">
+                            <li><a href="http://localhost:2012/Help">Documentation</a></li>
+                        </ul>
+                    </li>
+                    <li class="no-padding">
+                        <ul class="collapsible collapsible-accordion">
+                            <li>@Html.ActionLink("About", "about", "Player")</li>
+                        </ul>
+                    </li>
+                </ul>
+                <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+            </nav> 
+
+           
+        </header> 
+        <main>
+            @RenderBody()
+        </main>
+   
+        
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>
+    <script src="../Scripts/app.js"></script>
+
+</body> 
+
+</html>

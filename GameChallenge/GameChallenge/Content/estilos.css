@@ -1,0 +1,19 @@
+
+
+main {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  
+
+header, main {
+      padding-left: 240px;
+    }
+
+    @media only screen and (max-width : 992px) {
+      header, main{
+        padding-left: 0;
+      }
+    }

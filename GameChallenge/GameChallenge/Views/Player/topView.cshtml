@@ -1,0 +1,87 @@
+﻿@model  IEnumerable <GameChallenge.Models.Player>
+@{
+    ViewBag.Title = "topView";
+}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>
+
+
+
+
+
+<div>
+    <div class="row">
+   
+        <h3 class="orange-text center-align">Top 10 Players</h3>
+
+        @using (Html.BeginForm("resetData", "Player", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="col s10 offset-s1">
+           
+                <div class="row">
+              
+                    <table class="highlight col s12 ">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.name)
+                                </th>
+                                <th>
+                                    Score
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @if (Model != null)
+                            {
+                                foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.name)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.strategy)
+                                        </td>
+
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+
+
+               
+                </div>
+
+                <div class="row">
+                    <div class="center-align">
+                        <input type="submit" value="Reset Data" class="btn btn-info" />
+
+                    </div>
+                </div> 
+
+
+
+
+
+            </div>  
+            
+            
+            
+            
+
+        } 
+
+       
+       
+
+
+
+    </div>
+
+</div>
+

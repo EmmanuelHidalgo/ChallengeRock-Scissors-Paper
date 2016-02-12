@@ -1,0 +1,228 @@
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\GameChallenge.dll.config
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\GameChallenge.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\GameChallenge.pdb
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Antlr3.Runtime.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\EntityFramework.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\EntityFramework.SqlServer.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Google.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Newtonsoft.Json.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Owin.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.Helpers.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.Mvc.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.Optimization.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.Razor.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.WebPages.Deployment.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.WebPages.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.WebPages.Razor.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\WebGrease.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.Helpers.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.Mvc.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.Optimization.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.Razor.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.WebPages.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.WebPages.Deployment.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Web.WebPages.Razor.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Newtonsoft.Json.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Antlr3.Runtime.pdb
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\EntityFramework.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\EntityFramework.SqlServer.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Google.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\System.Web.Helpers.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\System.Web.Mvc.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\System.Web.Optimization.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\System.Web.Razor.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\System.Web.WebPages.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\EntityFramework.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\obj\Debug\GameChallenge.csprojResolveAssemblyReference.cache
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\obj\Debug\GameChallenge.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\obj\Debug\GameChallenge.pdb
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Net.Http.Formatting.dll
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\System.Net.Http.Formatting.xml
+c:\users\lenovoe535\documents\visual studio 2013\Projects\GameChallenge\GameChallenge\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\GameChallenge.dll.config
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\GameChallenge.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\GameChallenge.pdb
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Antlr3.Runtime.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\EntityFramework.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\EntityFramework.SqlServer.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Newtonsoft.Json.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Owin.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Helpers.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Mvc.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Optimization.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Razor.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.Razor.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\WebGrease.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Helpers.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Mvc.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Optimization.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Razor.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.Razor.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Newtonsoft.Json.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Antlr3.Runtime.pdb
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\EntityFramework.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\EntityFramework.SqlServer.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.Helpers.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.Mvc.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.Optimization.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.Razor.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.WebPages.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\EntityFramework.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\obj\Debug\GameChallenge.csprojResolveAssemblyReference.cache
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\obj\Debug\GameChallenge.dll
+C:\Users\EMMANUEL\Desktop\Challange HPE\GameChallenge\GameChallenge\obj\Debug\GameChallenge.pdb
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\GameChallenge.dll.config
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\GameChallenge.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\GameChallenge.pdb
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Antlr3.Runtime.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\EntityFramework.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\EntityFramework.SqlServer.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Newtonsoft.Json.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Owin.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Net.Http.Formatting.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Helpers.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Mvc.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Optimization.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Razor.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.Razor.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\WebGrease.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Net.Http.Formatting.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Helpers.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Mvc.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Optimization.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.Razor.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\System.Web.WebPages.Razor.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Newtonsoft.Json.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Antlr3.Runtime.pdb
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\EntityFramework.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\EntityFramework.SqlServer.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.Helpers.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.Mvc.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.Optimization.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.Razor.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.WebPages.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\EntityFramework.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\obj\Debug\GameChallenge.csprojResolveAssemblyReference.cache
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\obj\Debug\GameChallenge.dll
+C:\Users\LenovoE535\Desktop\Challange HPE\GameChallenge\GameChallenge\obj\Debug\GameChallenge.pdb
