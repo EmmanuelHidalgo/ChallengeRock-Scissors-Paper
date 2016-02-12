@@ -1,0 +1,3 @@
+Aplication URL: http://emmanuelhidalgo1-001-site1.ctempurl.com/  
+
+WebAPI: http://challengeapi.somee.com/help 
